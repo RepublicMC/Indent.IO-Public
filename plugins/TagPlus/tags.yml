@@ -1,0 +1,4 @@
+Tags:
+ example:
+  display: '&f[&bExample&f]'
+  permission: 'TagPlus.tag.example'
